@@ -1,0 +1,6 @@
+{
+    "package-name": "divio-telemetry-apm",
+    "installed-apps": [
+        "telemetry_apm"
+    ]
+}
