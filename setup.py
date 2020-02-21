@@ -11,7 +11,7 @@ setup(
     packages=find_packages(),
     platforms=['OS Independent'],
     install_requires=[
-        'django>=1.8,<2',
+        'django',
         'elastic-apm>=2',
         'yurl',
     ],
